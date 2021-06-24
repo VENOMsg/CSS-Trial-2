@@ -1,0 +1,86 @@
+body{
+    font-family: sans-serif;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    text-align: center; 
+    background-color: cyan;
+}
+
+hr{
+    border-style: dotted;
+    height: 0;
+    border-width: 6px 0 0 0;
+    width: 20%;
+    border-color: dimgrey;
+}
+
+.top-container{
+    font-family: 'Dancing Script', sans-serif;
+    background-color: #A2DBFA;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-top: 100px;
+    margin-bottom:0px;
+}    
+
+.logos{
+    background-color: rgb(35, 36, 31);
+    height: 70px;
+    width: 100px;
+}
+
+.middle-container{
+    background-color: rgba(48, 163, 9, 0.466);
+    font-family: sans-serif;
+    color: rgb(2, 78, 25);
+
+}
+
+h1{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+#top-cloud{
+    position: absolute;
+    top:20px;
+    right:306.59px;
+}
+
+#bottom-cloud{
+    position: absolute;
+    left: 306.59px;
+    top: 205px;
+}
+
+.skills{
+    background-color: rgb(2, 79, 80);
+    color:#FC5404;
+    font-family: 'Dancing Script', sans-serif;
+}
+
+.links{
+    border-style: dotted;
+    height: 0;
+    border-width: 4px 0 0 0;
+    width: 10%;
+    border-color: rgb(96, 51, 199);
+}
+
+.bottom-container{
+    background-color: #9ce90d;
+    margin: 0;
+    margin-top: 0;
+    font-family: sans-serif;
+}
+
+#zero{
+    font-family: 'Dancing Script', sans-serif
+}
+
+.font{
+    font-family: sans-serif;
+}
